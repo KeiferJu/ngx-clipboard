@@ -6,12 +6,12 @@
         "name": "KeiferJu",
         "email": "keiferju@gmail.com"
     },
-    "homepage": "",
+    "homepage": "https://github.com/KeiferJu/dllcn-ngx-clipboard.git",
     "license": "MIT",
     "publishConfig": {},
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:KeiferJu/dllcn-ngx-clipboard.git"
     },
     "keywords": [
         "angular",

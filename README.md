@@ -61,7 +61,7 @@ System.config({
 -   使用`ClipboardService`中的`copyFromContent`来复制动态创建的文本。
 
 ```ts
-import { ClipboardService } from 'ngx-clipboard'
+import { ClipboardService } from '@dllcn/ngx-clipboard'
 
 ...
 
