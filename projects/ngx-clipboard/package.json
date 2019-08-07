@@ -1,0 +1,28 @@
+{
+    "name": "@dllcn/ngx-clipboard",
+    "description": "angular复制指令",
+    "version": "12.1.2",
+    "author": {
+        "name": "KeiferJu",
+        "email": "keiferju@gmail.com"
+    },
+    "homepage": "",
+    "license": "MIT",
+    "publishConfig": {},
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "angular",
+        "clipboard",
+        "copy"
+    ],
+    "dependencies": {
+        "ngx-window-token": "^2.0.0"
+    },
+    "peerDependencies": {
+        "@angular/common": ">=6.0.0",
+        "@angular/core": ">=6.0.0"
+    }
+}
